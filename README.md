@@ -1,0 +1,2 @@
+# FOREST-FIRES-PREDICTION
+The main purpose of this project is to solve one of the major problems of the present day natural disaster that is, forest fire. The problem can be solved with the help of a machine learning model that can predict how much area will be burnt with respect to the input factors we have taken. So here, we consider some of the input features like temperature, relative humidity, spatial coordinates of the area we are considering, wind, rain and other FWI components such as FFMC, DMC, DC, ISI.
